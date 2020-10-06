@@ -1,0 +1,6 @@
+C:\Users\luket\source\repos\Spreadsheet_Lucas_Shearer\SpreadSheetEngine\bin\Debug\SpreadSheetEngine.dll
+C:\Users\luket\source\repos\Spreadsheet_Lucas_Shearer\SpreadSheetEngine\bin\Debug\SpreadSheetEngine.pdb
+C:\Users\luket\source\repos\Spreadsheet_Lucas_Shearer\SpreadSheetEngine\obj\Debug\SpreadSheetEngine.csprojAssemblyReference.cache
+C:\Users\luket\source\repos\Spreadsheet_Lucas_Shearer\SpreadSheetEngine\obj\Debug\SpreadSheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\luket\source\repos\Spreadsheet_Lucas_Shearer\SpreadSheetEngine\obj\Debug\SpreadSheetEngine.dll
+C:\Users\luket\source\repos\Spreadsheet_Lucas_Shearer\SpreadSheetEngine\obj\Debug\SpreadSheetEngine.pdb
